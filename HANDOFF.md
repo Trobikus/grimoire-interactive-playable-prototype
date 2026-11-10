@@ -6,11 +6,11 @@ Eigenständigen Vite-/TypeScript-Prototyp mit vollständigem kurzen Durchlauf un
 
 ## Noch offen
 
-Versionsstand 0.3.0 ergänzt Einzelschläge, Ausweichschritt und Gruftwächter-Boss mit sichtbarer Angriffsankündigung. Der finale Produktionsbuild ist erfolgreich; Pages-Rollout noch prüfen.
+Versionsstand 0.3.0 ergänzt Einzelschläge, Ausweichschritt und Gruftwächter-Boss mit sichtbarer Angriffsankündigung. Der Produktionsbuild, der Browserdurchlauf bis zum Sieg und das Pages-Deployment sind erfolgreich.
 
 ## Nächster konkreter Schritt
 
-Finalen Build, Bossdurchlauf und Pages-Rollout verifizieren; danach nur Fehlerkorrekturen vor 09:00 Uhr ausrollen.
+Demo vor 09:00 Uhr nicht mehr erweitern; nur bei gefundenen Fehlern gezielt korrigieren.
 
 ## Startkontext
 

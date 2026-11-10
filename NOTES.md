@@ -20,3 +20,5 @@
 - Shift führt einen kurzen Ausweichschritt mit 0,48 Sekunden Unverwundbarkeit und 1,1 Sekunden Abklingzeit aus.
 - Nach drei Wachen erscheint ein eigener Gruftwächter mit größerem Sprite, eigenem Lebensbalken und stärkerem Treffer. Erst sein Fall öffnet das Tor.
 - Ziel: den Prototyp als kleine Action-RPG-Vertikalprobe lesbar machen, ohne AAA-Umfang vorzutäuschen.
+- Der Gruftwächter markiert seinen Nahbereich vor dem Schlag sichtbar; der kurze Vorlauf gibt dem Ausweichschritt eine klare Aufgabe. Bosswerte für einen fairen Vorführdurchlauf reduziert, die Mondstahl-Klinge liegt beim Spieler statt am Gegner-Spawn.
+- Lokaler Produktionsbuild und Browserdurchlauf bis zum Sieg geprüft. Commit `9267f2b` wurde veröffentlicht; GitHub-Actions-Build und Pages-Deployment erfolgreich.
