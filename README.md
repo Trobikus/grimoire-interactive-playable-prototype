@@ -28,9 +28,11 @@ npm run preview
 
 - WASD oder Pfeiltasten: bewegen
 - Leertaste: Klinge schwingen
-- E: nahe Beute einsammeln
+- E: nahe Beute einsammeln; nach drei Siegen am geöffneten Tor entkommen
+- Q: Heiltrank aus der Tasche trinken
 - Gegner besiegen, EP sammeln, Stufen aufsteigen, Gold und Tränke finden
-- Nach drei besiegten Gruftwachen erscheint eine Mondstahl-Klinge mit höherem Angriffswert
+- Nach drei besiegten Gruftwachen öffnet sich der Ausgang; Wächterwams und Mondstahl-Klinge verbessern die Ausrüstung
+- Ein Sieg- und ein Game-over-Bildschirm schließen den Durchlauf ab; ein Neustart setzt Werte und Ausrüstung zurück
 - Bei 0 Leben kann ein neuer Versuch gestartet werden
 
 Touch-Steuerung ist für die Vorführung auf Mobilgeräten vorhanden.
@@ -42,7 +44,7 @@ Touch-Steuerung ist für die Vorführung auf Mobilgeräten vorhanden.
 - `src/style.css` — responsives Grimoire-Branding und HUD
 - `vite.config.ts` — Vite- und GitHub-Pages-Basispfad
 
-Keine externen Laufzeitpakete und keine Bilddateien erforderlich. Die Schriftarten werden bei bestehender Verbindung von Google Fonts geladen; System-Fallbacks bleiben verfügbar.
+Keine externen Laufzeitpakete und keine Bilddateien erforderlich. Die Schriftarten werden bei bestehender Verbindung von Google Fonts geladen; System-Fallbacks bleiben verfügbar. Optionale Synth-Soundeffekte starten erst nach Aktivierung über **Ton an**.
 
 ## GitHub Pages
 
@@ -50,4 +52,4 @@ Ein Workflow unter `.github/workflows/pages.yml` baut und veröffentlicht den st
 
 ## Grenzen des Prototyps
 
-Eine einzelne Gruft, einfache Canvas-Pixelgrafik, ein Nahkampfangriff und ein Questziel. Noch keine Speicherfunktion, kein Boss, keine Audioausgabe und kein serverseitiger Spielfortschritt. Für die Präsentation ehrlich als Prototyp kennzeichnen.
+Eine einzelne Gruft, einfache Canvas-Pixelgrafik und ein Nahkampfangriff. Noch keine Speicherfunktion, kein Boss und kein serverseitiger Spielfortschritt. Für die Präsentation ehrlich als Prototyp kennzeichnen.

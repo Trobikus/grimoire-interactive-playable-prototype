@@ -2,15 +2,15 @@
 
 ## Zuletzt erreicht
 
-Eigenständigen Vite-/TypeScript-Prototyp mit spielbarer Gruft und GitHub-Pages-Konfiguration aufgebaut.
+Eigenständigen Vite-/TypeScript-Prototyp mit vollständigem kurzen Durchlauf und öffentlichem GitHub-Pages-Release erstellt.
 
 ## Noch offen
 
-GitHub-Repository, Push und Pages-Publikation wurden nicht ausgeführt. Für Pages muss das Repository `grimoire-interactive-playable-prototype` heißen oder `base` im Workflow angepasst werden.
+Versionsstand 0.2.0 enthält Tor/Winscreen, Tasche, Tranknutzung, defensive Rüstung und aktivierbare Synth-SFX. Die öffentliche Demo läuft über GitHub Pages.
 
 ## Nächster konkreter Schritt
 
-Remote-Ziel und Veröffentlichung festlegen; danach Workflowstatus kontrollieren und Demo-URL eintragen.
+Finalen Build und Browserdurchlauf wiederholen; nur Fehlerkorrekturen vornehmen und Änderungen vor 09:00 Uhr ausrollen.
 
 ## Startkontext
 
