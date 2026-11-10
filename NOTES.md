@@ -13,3 +13,10 @@
 - Heiltrank kommt garantiert als erster Drop in die Tasche und wird mit Q genutzt. Zweiter Kill garantiert den Wächterwams; dritter Kill öffnet den Ausgang und lässt die Mondstahl-Klinge fallen. Gold droppt nach jedem Kill.
 - Rüstung reduziert Gegner-Schaden. Synth-SFX sind optional, starten nach bewusster Aktivierung und können stumm bleiben.
 - Kurztasten-Eingabe so angepasst, dass schnelle E/Q-Tastenimpulse nicht vor dem nächsten Animationsframe verloren gehen.
+
+## 10.11.2026 — Action-RPG-Politur 0.3.0
+
+- Leertaste löst nun genau einen Angriff pro Tastendruck aus; Gedrückthalten wiederholt die Attacke nicht.
+- Shift führt einen kurzen Ausweichschritt mit 0,48 Sekunden Unverwundbarkeit und 1,1 Sekunden Abklingzeit aus.
+- Nach drei Wachen erscheint ein eigener Gruftwächter mit größerem Sprite, eigenem Lebensbalken und stärkerem Treffer. Erst sein Fall öffnet das Tor.
+- Ziel: den Prototyp als kleine Action-RPG-Vertikalprobe lesbar machen, ohne AAA-Umfang vorzutäuschen.

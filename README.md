@@ -27,11 +27,14 @@ npm run preview
 ## Steuerung und Spielschleife
 
 - WASD oder Pfeiltasten: bewegen
-- Leertaste: Klinge schwingen
+- Leertaste antippen: ein einzelner Klingenschlag
+- Shift: kurzer Ausweichschritt mit knapper Unverwundbarkeit
 - E: nahe Beute einsammeln; nach drei Siegen am geöffneten Tor entkommen
 - Q: Heiltrank aus der Tasche trinken
 - Gegner besiegen, EP sammeln, Stufen aufsteigen, Gold und Tränke finden
-- Nach drei besiegten Gruftwachen öffnet sich der Ausgang; Wächterwams und Mondstahl-Klinge verbessern die Ausrüstung
+- Nach drei besiegten Gruftwachen erscheint der Gruftwächter als Boss; erst nach seinem Fall öffnet sich der Ausgang
+- Der Boss kündigt seinen Flächenangriff mit einem pulsierenden Kreis an; mit Shift aus dem Wirkungsbereich ausweichen
+- Wächterwams und Mondstahl-Klinge verbessern die Ausrüstung
 - Ein Sieg- und ein Game-over-Bildschirm schließen den Durchlauf ab; ein Neustart setzt Werte und Ausrüstung zurück
 - Bei 0 Leben kann ein neuer Versuch gestartet werden
 
@@ -52,4 +55,4 @@ Ein Workflow unter `.github/workflows/pages.yml` baut und veröffentlicht den st
 
 ## Grenzen des Prototyps
 
-Eine einzelne Gruft, einfache Canvas-Pixelgrafik und ein Nahkampfangriff. Noch keine Speicherfunktion, kein Boss und kein serverseitiger Spielfortschritt. Für die Präsentation ehrlich als Prototyp kennzeichnen.
+Eine einzelne Gruft, einfache Canvas-Pixelgrafik und ein Nahkampfangriff. Noch keine Speicherfunktion, keine weiteren Gebiete und kein serverseitiger Spielfortschritt. Für die Präsentation ehrlich als Prototyp kennzeichnen.

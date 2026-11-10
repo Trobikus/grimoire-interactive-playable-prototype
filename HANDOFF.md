@@ -6,11 +6,11 @@ Eigenständigen Vite-/TypeScript-Prototyp mit vollständigem kurzen Durchlauf un
 
 ## Noch offen
 
-Versionsstand 0.2.0 enthält Tor/Winscreen, Tasche, Tranknutzung, defensive Rüstung und aktivierbare Synth-SFX. Die öffentliche Demo läuft über GitHub Pages.
+Versionsstand 0.3.0 ergänzt Einzelschläge, Ausweichschritt und Gruftwächter-Boss mit sichtbarer Angriffsankündigung. Der finale Produktionsbuild ist erfolgreich; Pages-Rollout noch prüfen.
 
 ## Nächster konkreter Schritt
 
-Finalen Build und Browserdurchlauf wiederholen; nur Fehlerkorrekturen vornehmen und Änderungen vor 09:00 Uhr ausrollen.
+Finalen Build, Bossdurchlauf und Pages-Rollout verifizieren; danach nur Fehlerkorrekturen vor 09:00 Uhr ausrollen.
 
 ## Startkontext
 
