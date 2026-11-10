@@ -2,6 +2,8 @@
 
 Eigenständiger, browserbasierter Playable Prototype für die Vorführung am 11.11.2026. Das Projekt ist ein kleiner, nachvollziehbarer Entwicklungsstand und kein fertiges Produkt.
 
+**Demo spielen:** [The Hollow auf GitHub Pages](https://trobikus.github.io/grimoire-interactive-playable-prototype/)
+
 ## Spielen
 
 Für die Vorführung genügt ein aktueller Browser: nach erfolgreichem GitHub-Pages-Release den Link öffnen und **Runter in die Gruft** wählen. Es ist keine Installation erforderlich. Lokal kann der gebaute Ordner `dist/` direkt über einen statischen Webserver bereitgestellt werden.
@@ -44,7 +46,7 @@ Keine externen Laufzeitpakete und keine Bilddateien erforderlich. Die Schriftart
 
 ## GitHub Pages
 
-Ein Workflow unter `.github/workflows/pages.yml` baut und veröffentlicht den statischen Vite-Build bei Push auf `main`. In den GitHub-Repository-Einstellungen muss Pages auf **GitHub Actions** stehen. Der konfigurierte Projektpfad setzt den Repository-Namen `grimoire-interactive-playable-prototype` voraus. GitHub-Repository erstellen, pushen und veröffentlichen sind separate, noch nicht ausgeführte Schritte.
+Ein Workflow unter `.github/workflows/pages.yml` baut und veröffentlicht den statischen Vite-Build bei Push auf `main`. GitHub Pages ist auf **GitHub Actions** gestellt. Das öffentliche Repository ist [Trobikus/grimoire-interactive-playable-prototype](https://github.com/Trobikus/grimoire-interactive-playable-prototype); die Demo-URL verwendet dessen Repository-Namen.
 
 ## Grenzen des Prototyps
 
